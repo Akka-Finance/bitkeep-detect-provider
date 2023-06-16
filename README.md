@@ -1,0 +1,1 @@
+# @akkafinance/bitkeep-detect-provider
